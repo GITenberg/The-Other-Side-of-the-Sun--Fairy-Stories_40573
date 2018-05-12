@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '34581'
     url: http://www.gutenberg.org/2009/agents/34581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40573#The-Other-Side-of-the-Sun--Fairy-Stories
 gutenberg_issued: '2012-08-24'
 gutenberg_type: Text
 identifiers:
