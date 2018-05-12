@@ -1,0 +1,35 @@
+_repo: The-Other-Side-of-the-Sun--Fairy-Stories_40573
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Syrett, Nellie
+    gutenberg_agent_id: '40707'
+    url: http://www.gutenberg.org/2009/agents/40707
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sharp, Evelyn
+    birthdate: 1869
+    deathdate: 1955
+    gutenberg_agent_id: '34581'
+    url: http://www.gutenberg.org/2009/agents/34581
+description: ''
+gutenberg_issued: '2012-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: The weird witch of the willow-herb -- The magician's tea-party --
+  The hundredth princess -- Somebody else's prince -- The tears of Princess Prunella
+  -- The palace on the floor -- The Lady Daffodilia -- The kite that went to the moon.
+title: 'The Other Side of the Sun: Fairy Stories'
+url: http://www.gutenberg.org/ebooks/40573
